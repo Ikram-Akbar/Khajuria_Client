@@ -1,0 +1,56 @@
+[
+    {
+      "key": "location",
+      "value": {
+        "country": "Bangladesh",
+        "administrative_division": "Chittagong Division",
+        "district": "Noakhali",
+        "upazila": "Senbagh",
+        "mouza_no": "xx",
+        "union_parishad": "Kesharpar Union Parishad",
+        "up_serial": "2",
+        "nickname": "Khajuyrga (খাজুইরগা)",
+        "demonym": "Khajurian",
+        "government_type": "Union Parishad (Rural)",
+        "postal_code": "3865",
+        "website": "www.khajuria_webs.com"
+      }
+    },
+    {
+      "key": "government",
+      "value": {
+        "M.P": "Joynul Abedin Faruk (Nationalist party)",
+        "upazila_chairman": "Kazi Mofizur Rahman",
+        "upazila_vice_chairman": "Maulana Abdul Malek",
+        "up_chairman": "Abdul Haque",
+        "ward_members": [
+          {"seat": "1", "name": "Ferdaus Ara Parul (reserved seat for woman)"},
+          {"seat": "2", "name": "Mr. Jahangir Alam"},
+          {"seat": "3", "name": "Belal Hossain"}
+        ]
+      }
+    },
+    {
+      "key": "area_and_statistics",
+      "value": {
+        "total_area": "4.85 km2 (3.4 sq miles)",
+        "population": {
+          "survey_year": "2011",
+          "total": "16,000 approximately",
+          "density": "4,188/km2 (6,594.9/sq miles)"
+        },
+        "time_zone": "BST (UTC+6)",
+        "literacy_rate": "56%",
+        "male_literacy_rate": "48.24%",
+        "female_literacy_rate": "51.76%",
+        "birth_rate": "14.405%",
+        "death_rate": "5.557%",
+        "water": {
+          "annual_rainfall": "2200 mm",
+          "maximum_temperature": "38.11",
+          "minimum_temperature": "12.07"
+        }
+      }
+    }
+  ]
+  
