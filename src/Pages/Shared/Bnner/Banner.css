@@ -1,0 +1,8 @@
+.carousel_container {
+    height: 400px;
+}
+
+.carousel_container img {
+    height: 400px;
+    opacity: 0.8;
+}

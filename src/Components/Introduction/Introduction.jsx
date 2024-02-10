@@ -3,7 +3,7 @@ import { Table } from "react-bootstrap";
 
 const Introduction = () => {
   const [datas, setDatas] = useState([]);
-  
+
   useEffect(() => {
     fetch("/intro.json")
       .then((res) => res.json())
@@ -17,13 +17,20 @@ const Introduction = () => {
   return (
     <>
       <div>
-        <h3 className="text-center fw-light">
-          A brief introduction at a glance
+        <h3 className="text-center  fw-Bold  my-5">
+          <span className="badge bg-success fs-2">A Brief Introduction at a Glance</span> 
         </h3>
       </div>
       <div>
         {datas.map((data, index) => (
-          <Table  className="border-success my-2" responsive key={index} striped bordered hover>
+          <Table
+            className="border-success my-2"
+            responsive
+            key={index}
+            striped
+            bordered
+            hover
+          >
             <tbody>
               <tr>
                 <td>Country </td>

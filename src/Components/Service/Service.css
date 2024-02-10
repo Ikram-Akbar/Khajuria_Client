@@ -1,0 +1,28 @@
+.service-box {
+  padding-top: 10px;
+  height: 200px;
+  text-align: center;
+  margin-top: 20px;
+  border-radius: 10px; /* Rounded border */
+}
+
+.icon-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: inherit; /* Inherit rounded border */
+}
+.icon {
+  color: #6610f2; /* Set icon color */
+  font-size: 2rem; /* Adjust icon size as needed */
+  transition: transform 0.7s ease;
+}
+
+.service-box:hover {
+ 
+  border: 1px solid #6610f2; /* Background color on hover */
+}
+
+.icon-container:hover .icon {
+  transform: rotate(360deg); /* Rotate icon on hover */
+}
