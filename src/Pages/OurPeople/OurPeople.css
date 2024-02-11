@@ -1,0 +1,18 @@
+.person-container{
+    background-color: rgb(155 152 161 / 16%);
+    padding: 10px;
+}
+.person-card {
+    margin-bottom: 20px;
+    width: 200px;
+    height: 200px;
+    margin-right: 10px;
+}
+
+.person-card .card-img-top {
+    margin: 0 auto;
+}
+
+.person-card .card-body {
+    border-top: 1px solid rgba(0, 0, 0, 0.125);
+}

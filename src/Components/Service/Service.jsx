@@ -76,12 +76,12 @@ const ServiceComponent = () => {
       <Row>
         {initiatives.map((item, idx) => (
           <Col key={idx} md={4} lg={4} sm={1}>
-            <div className="service-box">
+            <div className="service-box text-center">
               <div className="icon-container">
                 <FontAwesomeIcon icon={item.icon} className="icon" />
               </div>
-              <h4 className="text-center fw-light">{item.category}</h4>
-              <p className="text-center fw-light text-secondary ">
+              <h4 className=" fw-light">{item.category}</h4>
+              <p className=" fw-light text-secondary ">
                 {item.description}
               </p>
             </div>
