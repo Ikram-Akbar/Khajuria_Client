@@ -15,7 +15,7 @@ const OurPeople = () => {
 
   return (
     <div className="person-container">
-      <h1 className="text-center my-5">Notable Person</h1>
+      <h1 className=" fw-light text-secondary text-center my-5">Notable Person</h1>
       <Container fluid>
         <Row>
           <Col>

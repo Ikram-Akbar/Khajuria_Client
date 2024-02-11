@@ -16,15 +16,11 @@ const Introduction = () => {
 
   return (
     <>
-      <div>
-        <h3 className="text-center  fw-Bold  my-5">
-          <span className="badge bg-success fs-2">A Brief Introduction at a Glance</span> 
-        </h3>
-      </div>
+   
       <div>
         {datas.map((data, index) => (
           <Table
-            className="border-success my-2"
+            className="border-secondary my-2"
             responsive
             key={index}
             striped
