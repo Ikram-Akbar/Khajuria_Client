@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "name": "Sardar Para",
+    "population": 3255,
+    "description": "Sardar para, the largest Para (Locality) and occupied the major population of the village (situated in the west part). The Sardar para section is in the west part of the village including Moddhom para, Uttar para, and Dokkhin para it’s made U.P ward number Three. The Sardar para section is the biggest section of the village. The majority of the people of the village are living in this area. 'Bari' (house) Joint Accommodation that has been formed by more than two families. The total Bari existing across the Sardar para locality is 1. Total educational institute 4 including a governmental primary school- named Khajuria Sardar Para Primary School. Another notable religious (Islamic) institution is Jamia Muhammadia Khajuria Madrasa, 2 maktab that preliminary Islamic study foundation which is attached to the mosque. Total mosques are 4 across the section with the well-known spiritual mosque Ali Shah Mali Shah Masjid. The oldest mosque is situated at the front side of Khondokar Bari. Named Khondokar bari jami masjid. Shop tea stalls and groceries are 15. Rice and chili mil is one (1). Bricks field 2. The largest and highest peopled house in this section is DIGHEELI BARI. Total bridge and culvert 4. The communication way of Sardar Para is usually much easier for all villagers than 1 way directly joined with the main DB road. Two other routes are attached to moddhom Para and Dokkhin Para (the southern ward). Typically people of Sordar Para use this way to move toward Khajuria bazar.",
+    "educationalInstitutions": 4,
+    "mosques": 4,
+    "shops": 15,
+    "bridgesAndCulverts": 4,
+    "notablePersons": [
+      "Abul Kalam Bepary",
+      "Fazlur Rahman",
+      "Abdul Sattar",
+      "Khondokar Abul Hashem",
+      "Shahjahan Bepary"
+    ],
+    "communicationRoutes": [
+      "Main DB road",
+      "Routes through Moddhom Para and Dokkhin Para"
+    ],
+    "mainAttractions": [
+      "Khajuria Sardar Para Primary School",
+      "Jamia Muhammadia Khajuria Madrasa",
+      "Ali Shah Mali Shah Masjid",
+      "Khondokar Bari Jami Masjid",
+      "DIGHEELI BARI"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Purbo Para",
+    "population": 2760,
+    "description": "The second largest section located in the east-northern part of the village. It shares borders with Lemua, Ludhua, Kolabaria, Mirashi Para, and Mondar Kandi. Known for its communication routes to Nangolkot Upazila and Sardar Para.",
+    "educationalInstitutions": 1,
+    "mosques": 7,
+    "shops": 14,
+    "bridgesAndCulverts": 6,
+    "notablePersons": [
+      "SM Kawsar Ahmed",
+      "Tayob Ali Showdagar",
+      "Salim Mia"
+    ],
+    "communicationRoutes": [
+      "Route via Lemua to Nangolkot Upazila",
+      "Route via Moddhom Para to Sardar Para"
+    ],
+    "mainAttractions": [
+      "Purbo Para Jame Masjid",
+      "DAS BARI"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Uttar Para",
+    "population": 2494,
+    "description": "The northern sector of the village connected to Moddhom Para and Mirashi Para. Notable for Uttor Para Nurani Madrasa, the first institution of its kind in Noakhali district.",
+    "mosques": 2,
+    "shops": 9,
+    "houses": 13,
+    "bridgesAndCulverts": 2,
+    "notablePersons": [
+      "Mijhi Bari",
+      "Khaser Bari",
+      "Lal Mia Munshi Bari"
+    ],
+    "communicationRoutes": [
+      "Routes via Moddhom Para and Mirashi Para to Khajuria Bazaar"
+    ],
+    "mainAttractions": [
+      "Uttor Para Darul Uloom Madrasa"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Dokkhin Para",
+    "population": 1577,
+    "description": "The southern section of the village. Further details are not provided in the given information."
+  },
+  {
+    "id": 5,
+    "name": "Moddhom Para",
+    "population": 2686,
+    "description": "The most up-to-date locality across the village. Known for its historical significance and notable residents since the British period. Bounded by Sardar Para, Uttar Para, Mirashi Para, and Dokkhin Para.",
+    "educationalInstitutions": 1,
+    "mosques": 5,
+    "shops": 7,
+    "ponds": 16,
+    "bridgesAndCulverts": 4,
+    "notablePersons": [
+      "Martyred Khaled Muhammad Ali BLF"
+    ],
+    "communicationRoutes": [
+      "Surrounded routes within the village"
+    ],
+    "mainAttractions": [
+      "Moddhom Para Mamtajia Nurani Madrasa",
+      "Mamur Pul",
+      "Haji Bari Jame Masjid"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Mirashi Para",
+    "population": 1354,
+    "description": "The northeastern section of the village. Further details are not provided in the given information."
+  },
+  {
+    "id": 7,
+    "name": "Monday Kandi",
+    "population": 1729,
+    "description": "The northeast section of the village. Further details are not provided in the given information."
+  }
+]

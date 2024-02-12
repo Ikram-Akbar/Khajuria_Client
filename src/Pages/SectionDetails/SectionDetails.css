@@ -1,0 +1,60 @@
+.section-container {
+    background-color: rgb(155 152 161 / 16%);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #333;
+    margin-bottom: 15px;
+}
+
+.description {
+    font-style: italic;
+    margin-bottom: 20px;
+}
+
+.population {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.section-detail {
+    margin-bottom: 10px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.not-available {
+    color: #999;
+}
+
+.list {
+    padding: 0;
+}
+
+.list-item {
+    margin-bottom: 5px;
+    color: #333;
+}
+
+.list-item:last-child {
+    margin-bottom: 0;
+}
+
+.list-item::before {
+    content: "•";
+    margin-right: 5px;
+    color: #f55c47;
+}
+
+.list-item.bold {
+    font-weight: bold;
+}
+
+.list-item.bold::before {
+    content: "";
+}

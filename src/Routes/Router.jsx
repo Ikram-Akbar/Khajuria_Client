@@ -3,6 +3,7 @@ import Home from "../Pages/Home/Home";
 import About from "../Pages/About/About";
 import Location from "../Pages/Location/Location";
 import Main from "../Layout/Main";
+import SectionDetails from "../Pages/SectionDetails/SectionDetails";
 
 const router = createBrowserRouter([
     {
@@ -24,6 +25,10 @@ const router = createBrowserRouter([
         {
           path: "location",
           element: <Location/>,
+        },
+        {
+          path: "section/:id",
+          element: <SectionDetails />,
         },
       ]
     },
